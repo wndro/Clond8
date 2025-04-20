@@ -1,0 +1,7 @@
+Shows previews for images and videos
+
+Added image and video previews to the file gallery; updated the media viewer with a close button and translated some UI text.  Changes made to `MediaGallery.tsx`, `MediaViewer.tsx`, and `useLanguage.tsx`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 577703ad-4495-42af-b72d-548089b415c9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/8753b484-0bc4-4c68-95cd-e86b53dd08ac/abf01fee-2b23-4b54-9878-d529c8dd5711.jpg
